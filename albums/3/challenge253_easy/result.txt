@@ -1,0 +1,4 @@
+Overall loan taken:1080
+Repayments from income:280.0
+Repayments from benefit clawbacks:270.0
+Ending balance with interest:1169.09

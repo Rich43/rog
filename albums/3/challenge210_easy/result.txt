@@ -1,0 +1,3 @@
+50% compatibility
+20 should avoid 4294967275
+65515 should avoid 4294901780

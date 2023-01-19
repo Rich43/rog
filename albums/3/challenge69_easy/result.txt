@@ -1,0 +1,11 @@
+leng 13
++-----------------+
+|  Necessities    |
++-----------------+
+|  fairy          |
+|  cakes          |
+|  happy          |
+|  fish           |
+|  disgustipated  |
+|  melon-balls    |
++-----------------+

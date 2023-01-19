@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpzkz1pfn7", line 22, in <module>
+    with open('296.txt') as file:
+FileNotFoundError: [Errno 2] No such file or directory: '296.txt'

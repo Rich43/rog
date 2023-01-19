@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmptzw4bzlh", line 20, in <module>
+    ans = input(question)
+EOFError: EOF when reading a line

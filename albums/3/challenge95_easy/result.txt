@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpnak9lizd", line 36, in <module>
+    with open(file) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'theTyger.txt'

@@ -1,0 +1,1 @@
+Average word length:  4.514285714285714

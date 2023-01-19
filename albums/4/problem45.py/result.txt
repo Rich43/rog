@@ -1,0 +1,1 @@
+(9, ['baltoy', 'yamask', 'kangaskhan', 'nosepass', 'sableye', 'emboar', 'registeel', 'landorus', 'scolipede', 'emolga'])

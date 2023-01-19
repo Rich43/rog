@@ -1,0 +1,14 @@
+Room 1, 84 minute average visit, 1 visitor total
+Room 2, 47 minute average visit, 2 visitor total
+Room 6, 78 minute average visit, 1 visitor total
+Room 7, 58 minute average visit, 1 visitor total
+Room 9, 84 minute average visit, 1 visitor total
+Room 11, 56 minute average visit, 2 visitor total
+Room 12, 18 minute average visit, 1 visitor total
+Room 13, 14 minute average visit, 1 visitor total
+Room 15, 29 minute average visit, 2 visitor total
+Room 18, 76 minute average visit, 1 visitor total
+Room 19, 11 minute average visit, 2 visitor total
+Room 26, 37 minute average visit, 1 visitor total
+Room 28, 31 minute average visit, 1 visitor total
+Room 32, 87 minute average visit, 1 visitor total

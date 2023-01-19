@@ -1,0 +1,3 @@
+Largest_digit (7626) -> 7
+desc_digits(7626) -> 7662
+kaprecar(7626) -> 6

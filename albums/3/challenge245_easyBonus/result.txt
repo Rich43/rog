@@ -1,0 +1,16 @@
+tomorrow:  2016-10-15
+2010-dec-7:  2010-12-07
+OCT 23:  2016-10-23
+one week ago:  2016-10-07
+next Monday:  2016-10-17
+last sunDay:  2016-10-09
+1 year ago:  2015-10-15
+1 month ago:  2016-09-14
+last week:  2016-10-07
+LAST MONTH:  2016-09-14
+10 October 2010:  2010-10-10
+an year ago:  2015-10-15
+2 years from tomoRRow:  2018-10-15
+1 month from 2016-01-31:  2016-02-29
+4 DAYS FROM today:  2016-10-18
+9 weeks from yesterday:  2016-12-15

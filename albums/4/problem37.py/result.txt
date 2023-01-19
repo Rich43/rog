@@ -1,0 +1,48 @@
+0, 'Writing programs or programming is a very creative 2
+0,  Writing programs or programming is a very creative
+1, 'and rewarding activity  You can write programs for 2
+1,  and rewarding activity  You can write programs for
+2, 'many reasons ranging from making your living to solving 2
+2,  many reasons ranging from making your living to solving
+3, 'a difficult data analysis problem to having fun to helping 2
+3,  a difficult data analysis problem to having fun to helping
+4, 'someone else solve a problem  This book assumes that 2
+4,  someone else solve a problem  This book assumes that
+5, '{\\em everyone} needs to know how to program and that once 2
+5,  {\\em everyone} needs to know how to program and that once
+6, 'you know how to program, you will figure out what you want 2
+6,  you know how to program, you will figure out what you want
+7, 'to do with your newfound skills 2
+7,  to do with your newfound skills
+8,  2
+8,  
+9, 'We are surrounded in our daily lives with computers ranging 2
+9,  We are surrounded in our daily lives with computers ranging
+10, 'from laptops to cell phones  We can think of these computers 3
+10,  from laptops to cell phones  We can think of these computers
+11, 'as our personal assistants who can take care of many things 3
+11,  as our personal assistants who can take care of many things
+12, 'on our behalf  The hardware in our current-day computers 3
+12,  on our behalf  The hardware in our current-day computers
+13, 'is essentially built to continuously as us the question 3
+13,  is essentially built to continuously as us the question
+14, 'What would you like me to do next 3
+14,  What would you like me to do next
+15,  3
+15,  
+16, 'Our computers are fast and have vasts amounts of memory and 3
+16,  Our computers are fast and have vasts amounts of memory and
+17, 'could be very helpful to us if we only knew the language to 3
+17,  could be very helpful to us if we only knew the language to
+18, 'speak to explain to the computer what we would like it to 3
+18,  speak to explain to the computer what we would like it to
+19, 'do next If we knew this language we could tell the 3
+19,  do next If we knew this language we could tell the
+20, 'computer to do tasks on our behalf that were reptitive 3
+20,  computer to do tasks on our behalf that were reptitive
+21, 'Interestingly, the kinds of things computers can do best 3
+21,  Interestingly, the kinds of things computers can do best
+22, 'are often the kinds of things that we humans find boring 3
+22,  are often the kinds of things that we humans find boring
+23, 'and mind-numbing 3
+23,  and mind-numbing

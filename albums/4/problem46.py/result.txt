@@ -1,0 +1,1541 @@
+"abc": makes "ac" and "b"
+
+"able": makes "al" and "be"
+
+"ac": makes "a" and "c"
+
+"accost": makes "acs" and "cot"
+
+"accuse": makes "acs" and "cue"
+
+"acm": makes "am" and "c"
+
+"acs": makes "as" and "c"
+
+"act": makes "at" and "c"
+
+"ad": makes "a" and "d"
+
+"add": makes "ad" and "d"
+
+"added": makes "add" and "de"
+
+"afield": makes "ail" and "fed"
+
+"aft": makes "at" and "f"
+
+"agleam": makes "ala" and "gem"
+
+"agree": makes "are" and "ge"
+
+"ah": makes "a" and "h"
+
+"aid": makes "ad" and "i"
+
+"aida": makes "ad" and "ia"
+
+"ail": makes "al" and "i"
+
+"aim": makes "am" and "i"
+
+"air": makes "ar" and "i"
+
+"ak": makes "a" and "k"
+
+"al": makes "a" and "l"
+
+"alcott": makes "act" and "lot"
+
+"algae": makes "age" and "la"
+
+"all": makes "al" and "l"
+
+"allele": makes "all" and "lee"
+
+"allied": makes "ale" and "lid"
+
+"alma": makes "am" and "la"
+
+"alpert": makes "apr" and "let"
+
+"also": makes "as" and "lo"
+
+"alto": makes "at" and "lo"
+
+"am": makes "a" and "m"
+
+"ambient": makes "abet" and "min"
+
+"ammo": makes "am" and "mo"
+
+"amra": makes "ar" and "ma"
+
+"an": makes "a" and "n"
+
+"and": makes "ad" and "n"
+
+"andy": makes "ad" and "ny"
+
+"ann": makes "an" and "n"
+
+"anne": makes "an" and "ne"
+
+"annette": makes "ante" and "net"
+
+"annoy": makes "any" and "no"
+
+"ant": makes "at" and "n"
+
+"ante": makes "at" and "ne"
+
+"apple": makes "ape" and "pl"
+
+"apport": makes "apr" and "pot"
+
+"apr": makes "ar" and "p"
+
+"aps": makes "as" and "p"
+
+"apt": makes "at" and "p"
+
+"ar": makes "a" and "r"
+
+"arc": makes "ac" and "r"
+
+"ariadne": makes "aide" and "ran"
+
+"ark": makes "ak" and "r"
+
+"arm": makes "am" and "r"
+
+"art": makes "at" and "r"
+
+"artie": makes "ate" and "ri"
+
+"as": makes "a" and "s"
+
+"ash": makes "ah" and "s"
+
+"ask": makes "ak" and "s"
+
+"ass": makes "as" and "s"
+
+"assist": makes "ass" and "sit"
+
+"at": makes "a" and "t"
+
+"auk": makes "ak" and "u"
+
+"aunt": makes "an" and "ut"
+
+"awl": makes "al" and "w"
+
+"awn": makes "an" and "w"
+
+"awry": makes "ar" and "wy"
+
+"ax": makes "a" and "x"
+
+"az": makes "a" and "z"
+
+"baird": makes "bid" and "ar"
+
+"battle": makes "btl" and "ate"
+
+"bay": makes "by" and "a"
+
+"be": makes "b" and "e"
+
+"beady": makes "bay" and "ed"
+
+"bee": makes "be" and "e"
+
+"been": makes "be" and "en"
+
+"beet": makes "be" and "et"
+
+"being": makes "big" and "en"
+
+"bey": makes "by" and "e"
+
+"bien": makes "be" and "in"
+
+"biota": makes "boa" and "it"
+
+"blaine": makes "ban" and "lie"
+
+"bleat": makes "bet" and "la"
+
+"bloop": makes "bop" and "lo"
+
+"board": makes "bad" and "or"
+
+"booky": makes "boy" and "ok"
+
+"bop": makes "bp" and "o"
+
+"bound": makes "bud" and "on"
+
+"bourn": makes "bun" and "or"
+
+"boy": makes "by" and "o"
+
+"bp": makes "b" and "p"
+
+"brady": makes "bay" and "rd"
+
+"braid": makes "bad" and "ri"
+
+"brain": makes "ban" and "ri"
+
+"bred": makes "be" and "rd"
+
+"breed": makes "bed" and "re"
+
+"brenda": makes "bed" and "rna"
+
+"bruit": makes "but" and "ri"
+
+"buy": makes "by" and "u"
+
+"by": makes "b" and "y"
+
+"bye": makes "be" and "y"
+
+"ca": makes "c" and "a"
+
+"cab": makes "cb" and "a"
+
+"calliope": makes "clip" and "aloe"
+
+"carry": makes "cry" and "ar"
+
+"cat": makes "ct" and "a"
+
+"cause": makes "cue" and "as"
+
+"cb": makes "c" and "b"
+
+"cf": makes "c" and "f"
+
+"chain": makes "can" and "hi"
+
+"chair": makes "car" and "hi"
+
+"chao": makes "ca" and "ho"
+
+"choose": makes "cos" and "hoe"
+
+"choosy": makes "cos" and "hoy"
+
+"cia": makes "ca" and "i"
+
+"cit": makes "ct" and "i"
+
+"claire": makes "car" and "lie"
+
+"co": makes "c" and "o"
+
+"coax": makes "ca" and "ox"
+
+"collude": makes "clue" and "old"
+
+"coo": makes "co" and "o"
+
+"cook": makes "co" and "ok"
+
+"cooky": makes "coy" and "ok"
+
+"coon": makes "co" and "on"
+
+"coors": makes "cos" and "or"
+
+"copra": makes "cpa" and "or"
+
+"corny": makes "cry" and "on"
+
+"cot": makes "ct" and "o"
+
+"count": makes "cut" and "on"
+
+"court": makes "cut" and "or"
+
+"cpa": makes "ca" and "p"
+
+"croix": makes "cox" and "ri"
+
+"crt": makes "ct" and "r"
+
+"crude": makes "cue" and "rd"
+
+"ct": makes "c" and "t"
+
+"cub": makes "cb" and "u"
+
+"cut": makes "ct" and "u"
+
+"cz": makes "c" and "z"
+
+"dar": makes "dr" and "a"
+
+"dark": makes "dr" and "ak"
+
+"darn": makes "dr" and "an"
+
+"darry": makes "dry" and "ar"
+
+"dart": makes "dr" and "at"
+
+"dc": makes "d" and "c"
+
+"de": makes "d" and "e"
+
+"dec": makes "dc" and "e"
+
+"dee": makes "de" and "e"
+
+"deed": makes "de" and "ed"
+
+"deem": makes "de" and "em"
+
+"diary": makes "day" and "ir"
+
+"die": makes "de" and "i"
+
+"died": makes "de" and "id"
+
+"diet": makes "de" and "it"
+
+"diety": makes "dey" and "it"
+
+"diode": makes "doe" and "id"
+
+"dirt": makes "dr" and "it"
+
+"dirty": makes "dry" and "it"
+
+"do": makes "d" and "o"
+
+"dock": makes "dc" and "ok"
+
+"doe": makes "de" and "o"
+
+"donna": makes "dna" and "on"
+
+"door": makes "do" and "or"
+
+"dour": makes "du" and "or"
+
+"dr": makes "d" and "r"
+
+"drain": makes "dan" and "ri"
+
+"dried": makes "did" and "re"
+
+"druid": makes "dud" and "ri"
+
+"du": makes "d" and "u"
+
+"duck": makes "dc" and "uk"
+
+"duct": makes "dc" and "ut"
+
+"due": makes "de" and "u"
+
+"duet": makes "de" and "ut"
+
+"dye": makes "de" and "y"
+
+"eat": makes "et" and "a"
+
+"echo": makes "eh" and "co"
+
+"ed": makes "e" and "d"
+
+"edt": makes "et" and "d"
+
+"eel": makes "el" and "e"
+
+"effete": makes "eft" and "fee"
+
+"eft": makes "et" and "f"
+
+"eh": makes "e" and "h"
+
+"el": makes "e" and "l"
+
+"ell": makes "el" and "l"
+
+"ella": makes "el" and "la"
+
+"elm": makes "em" and "l"
+
+"em": makes "e" and "m"
+
+"emma": makes "em" and "ma"
+
+"en": makes "e" and "n"
+
+"end": makes "ed" and "n"
+
+"est": makes "et" and "s"
+
+"et": makes "e" and "t"
+
+"ex": makes "e" and "x"
+
+"fabric": makes "fbi" and "arc"
+
+"faint": makes "fit" and "an"
+
+"fall": makes "fl" and "al"
+
+"fat": makes "ft" and "a"
+
+"fe": makes "f" and "e"
+
+"fealty": makes "fat" and "ely"
+
+"fee": makes "fe" and "e"
+
+"feed": makes "fe" and "ed"
+
+"feel": makes "fe" and "el"
+
+"feet": makes "fe" and "et"
+
+"feint": makes "fit" and "en"
+
+"fell": makes "fl" and "el"
+
+"felt": makes "fl" and "et"
+
+"fief": makes "fe" and "if"
+
+"field": makes "fed" and "il"
+
+"fiend": makes "fed" and "in"
+
+"fill": makes "fl" and "il"
+
+"filly": makes "fly" and "il"
+
+"fit": makes "ft" and "i"
+
+"fl": makes "f" and "l"
+
+"flea": makes "fe" and "la"
+
+"floor": makes "for" and "lo"
+
+"fluent": makes "fun" and "let"
+
+"fm": makes "f" and "m"
+
+"foe": makes "fe" and "o"
+
+"folk": makes "fl" and "ok"
+
+"forwent": makes "fret" and "own"
+
+"fred": makes "fe" and "rd"
+
+"free": makes "fe" and "re"
+
+"freed": makes "fed" and "re"
+
+"friend": makes "fin" and "red"
+
+"ft": makes "f" and "t"
+
+"fum": makes "fm" and "u"
+
+"ga": makes "g" and "a"
+
+"gam": makes "gm" and "a"
+
+"gao": makes "go" and "a"
+
+"gaudy": makes "guy" and "ad"
+
+"gaul": makes "gu" and "al"
+
+"gaunt": makes "gut" and "an"
+
+"gaur": makes "gu" and "ar"
+
+"gauss": makes "gus" and "as"
+
+"ge": makes "g" and "e"
+
+"gee": makes "ge" and "e"
+
+"gem": makes "gm" and "e"
+
+"george": makes "gog" and "ere"
+
+"gleam": makes "gem" and "la"
+
+"gloat": makes "got" and "la"
+
+"gm": makes "g" and "m"
+
+"gnaw": makes "ga" and "nw"
+
+"gnu": makes "gu" and "n"
+
+"go": makes "g" and "o"
+
+"goa": makes "ga" and "o"
+
+"goer": makes "ge" and "or"
+
+"goof": makes "go" and "of"
+
+"gpo": makes "go" and "p"
+
+"grad": makes "ga" and "rd"
+
+"grady": makes "gay" and "rd"
+
+"grail": makes "gal" and "ri"
+
+"greet": makes "get" and "re"
+
+"gsa": makes "ga" and "s"
+
+"gu": makes "g" and "u"
+
+"guano": makes "gao" and "un"
+
+"guest": makes "get" and "us"
+
+"gum": makes "gm" and "u"
+
+"gym": makes "gm" and "y"
+
+"ha": makes "h" and "a"
+
+"haas": makes "ha" and "as"
+
+"hail": makes "hi" and "al"
+
+"hair": makes "hi" and "ar"
+
+"haunt": makes "hut" and "an"
+
+"he": makes "h" and "e"
+
+"head": makes "ha" and "ed"
+
+"heady": makes "hay" and "ed"
+
+"heal": makes "ha" and "el"
+
+"healy": makes "hay" and "el"
+
+"heat": makes "ha" and "et"
+
+"heed": makes "he" and "ed"
+
+"heel": makes "he" and "el"
+
+"hi": makes "h" and "i"
+
+"hiatt": makes "hat" and "it"
+
+"ho": makes "h" and "o"
+
+"hoar": makes "ha" and "or"
+
+"hoard": makes "had" and "or"
+
+"hoe": makes "he" and "o"
+
+"hoi": makes "hi" and "o"
+
+"hoof": makes "ho" and "of"
+
+"hook": makes "ho" and "ok"
+
+"hue": makes "he" and "u"
+
+"ia": makes "i" and "a"
+
+"ian": makes "in" and "a"
+
+"ibn": makes "in" and "b"
+
+"id": makes "i" and "d"
+
+"ida": makes "ia" and "d"
+
+"idle": makes "il" and "de"
+
+"if": makes "i" and "f"
+
+"ii": makes "i" and "i"
+
+"iii": makes "ii" and "i"
+
+"il": makes "i" and "l"
+
+"ill": makes "il" and "l"
+
+"in": makes "i" and "n"
+
+"indy": makes "id" and "ny"
+
+"info": makes "if" and "no"
+
+"inn": makes "in" and "n"
+
+"inroad": makes "ira" and "nod"
+
+"into": makes "it" and "no"
+
+"io": makes "i" and "o"
+
+"ion": makes "in" and "o"
+
+"ipso": makes "is" and "po"
+
+"iq": makes "i" and "q"
+
+"ir": makes "i" and "r"
+
+"ira": makes "ia" and "r"
+
+"irs": makes "is" and "r"
+
+"is": makes "i" and "s"
+
+"isle": makes "il" and "se"
+
+"israel": makes "ire" and "sal"
+
+"it": makes "i" and "t"
+
+"ito": makes "io" and "t"
+
+"itt": makes "it" and "t"
+
+"iv": makes "i" and "v"
+
+"ix": makes "i" and "x"
+
+"jar": makes "jr" and "a"
+
+"jaunty": makes "jut" and "any"
+
+"jo": makes "j" and "o"
+
+"joanne": makes "jan" and "one"
+
+"jr": makes "j" and "r"
+
+"kay": makes "ky" and "a"
+
+"key": makes "ky" and "e"
+
+"kiss": makes "ks" and "is"
+
+"ks": makes "k" and "s"
+
+"ku": makes "k" and "u"
+
+"ky": makes "k" and "y"
+
+"la": makes "l" and "a"
+
+"lao": makes "lo" and "a"
+
+"laos": makes "lo" and "as"
+
+"lea": makes "la" and "e"
+
+"lead": makes "la" and "ed"
+
+"lean": makes "la" and "en"
+
+"leo": makes "lo" and "e"
+
+"leon": makes "lo" and "en"
+
+"liar": makes "la" and "ir"
+
+"lion": makes "lo" and "in"
+
+"lo": makes "l" and "o"
+
+"loaf": makes "la" and "of"
+
+"loan": makes "la" and "on"
+
+"loire": makes "lie" and "or"
+
+"look": makes "lo" and "ok"
+
+"loon": makes "lo" and "on"
+
+"lounge": makes "lug" and "one"
+
+"ma": makes "m" and "a"
+
+"mad": makes "md" and "a"
+
+"mae": makes "me" and "a"
+
+"maid": makes "mi" and "ad"
+
+"mail": makes "mi" and "al"
+
+"maim": makes "mi" and "am"
+
+"main": makes "mi" and "an"
+
+"man": makes "mn" and "a"
+
+"mann": makes "mn" and "an"
+
+"mans": makes "mn" and "as"
+
+"mao": makes "mo" and "a"
+
+"mar": makes "mr" and "a"
+
+"marc": makes "mr" and "ac"
+
+"mark": makes "mr" and "ak"
+
+"marks": makes "mrs" and "ak"
+
+"mars": makes "mr" and "as"
+
+"mart": makes "mr" and "at"
+
+"marx": makes "mr" and "ax"
+
+"mash": makes "ms" and "ah"
+
+"mask": makes "ms" and "ak"
+
+"mass": makes "ms" and "as"
+
+"mast": makes "ms" and "at"
+
+"mat": makes "mt" and "a"
+
+"math": makes "mt" and "ah"
+
+"maul": makes "mu" and "al"
+
+"may": makes "my" and "a"
+
+"mba": makes "ma" and "b"
+
+"md": makes "m" and "d"
+
+"me": makes "m" and "e"
+
+"mead": makes "ma" and "ed"
+
+"meal": makes "ma" and "el"
+
+"mealy": makes "may" and "el"
+
+"mean": makes "ma" and "en"
+
+"meant": makes "mat" and "en"
+
+"meat": makes "ma" and "et"
+
+"meaty": makes "may" and "et"
+
+"meet": makes "me" and "et"
+
+"men": makes "mn" and "e"
+
+"mend": makes "mn" and "ed"
+
+"mesh": makes "ms" and "eh"
+
+"met": makes "mt" and "e"
+
+"mi": makes "m" and "i"
+
+"mid": makes "md" and "i"
+
+"mien": makes "me" and "in"
+
+"min": makes "mn" and "i"
+
+"mind": makes "mn" and "id"
+
+"mini": makes "mn" and "ii"
+
+"mint": makes "mn" and "it"
+
+"mira": makes "mr" and "ia"
+
+"miss": makes "ms" and "is"
+
+"mist": makes "ms" and "it"
+
+"mit": makes "mt" and "i"
+
+"mitt": makes "mt" and "it"
+
+"mn": makes "m" and "n"
+
+"mo": makes "m" and "o"
+
+"moan": makes "ma" and "on"
+
+"moe": makes "me" and "o"
+
+"moen": makes "me" and "on"
+
+"monk": makes "mn" and "ok"
+
+"moo": makes "mo" and "o"
+
+"moon": makes "mo" and "on"
+
+"moor": makes "mo" and "or"
+
+"moore": makes "moe" and "or"
+
+"morn": makes "mr" and "on"
+
+"mot": makes "mt" and "o"
+
+"moth": makes "mt" and "oh"
+
+"mound": makes "mud" and "on"
+
+"mr": makes "m" and "r"
+
+"mrs": makes "ms" and "r"
+
+"ms": makes "m" and "s"
+
+"mt": makes "m" and "t"
+
+"mu": makes "m" and "u"
+
+"mud": makes "md" and "u"
+
+"muon": makes "mo" and "un"
+
+"murk": makes "mr" and "uk"
+
+"musk": makes "ms" and "uk"
+
+"must": makes "ms" and "ut"
+
+"mutt": makes "mt" and "ut"
+
+"my": makes "m" and "y"
+
+"naacp": makes "nap" and "ac"
+
+"nay": makes "ny" and "a"
+
+"nbc": makes "nc" and "b"
+
+"nc": makes "n" and "c"
+
+"nco": makes "no" and "c"
+
+"nd": makes "n" and "d"
+
+"ne": makes "n" and "e"
+
+"ned": makes "nd" and "e"
+
+"nee": makes "ne" and "e"
+
+"need": makes "ne" and "ed"
+
+"neon": makes "no" and "en"
+
+"new": makes "nw" and "e"
+
+"newt": makes "nw" and "et"
+
+"nh": makes "n" and "h"
+
+"nih": makes "nh" and "i"
+
+"nj": makes "n" and "j"
+
+"nm": makes "n" and "m"
+
+"nne": makes "ne" and "n"
+
+"nnw": makes "nw" and "n"
+
+"no": makes "n" and "o"
+
+"nod": makes "nd" and "o"
+
+"nook": makes "no" and "ok"
+
+"noon": makes "no" and "on"
+
+"noun": makes "nu" and "on"
+
+"nov": makes "nv" and "o"
+
+"now": makes "nw" and "o"
+
+"nrc": makes "nc" and "r"
+
+"nu": makes "n" and "u"
+
+"nv": makes "n" and "v"
+
+"nw": makes "n" and "w"
+
+"ny": makes "n" and "y"
+
+"nyc": makes "nc" and "y"
+
+"nyu": makes "nu" and "y"
+
+"oaf": makes "of" and "a"
+
+"oak": makes "ok" and "a"
+
+"oar": makes "or" and "a"
+
+"of": makes "o" and "f"
+
+"off": makes "of" and "f"
+
+"ogre": makes "or" and "ge"
+
+"oh": makes "o" and "h"
+
+"oint": makes "on" and "it"
+
+"ok": makes "o" and "k"
+
+"on": makes "o" and "n"
+
+"or": makes "o" and "r"
+
+"oriole": makes "oil" and "roe"
+
+"orr": makes "or" and "r"
+
+"osha": makes "oh" and "sa"
+
+"oswald": makes "owl" and "sad"
+
+"our": makes "or" and "u"
+
+"ow": makes "o" and "w"
+
+"own": makes "on" and "w"
+
+"ox": makes "o" and "x"
+
+"pa": makes "p" and "a"
+
+"paid": makes "pi" and "ad"
+
+"pail": makes "pi" and "al"
+
+"pain": makes "pi" and "an"
+
+"paine": makes "pie" and "an"
+
+"paint": makes "pit" and "an"
+
+"pair": makes "pi" and "ar"
+
+"pal": makes "pl" and "a"
+
+"pall": makes "pl" and "al"
+
+"palm": makes "pl" and "am"
+
+"palsy": makes "ply" and "as"
+
+"pam": makes "pm" and "a"
+
+"paoli": makes "poi" and "al"
+
+"par": makes "pr" and "a"
+
+"park": makes "pr" and "ak"
+
+"parr": makes "pr" and "ar"
+
+"parrot": makes "pro" and "art"
+
+"parry": makes "pry" and "ar"
+
+"part": makes "pr" and "at"
+
+"party": makes "pry" and "at"
+
+"pea": makes "pa" and "e"
+
+"peal": makes "pa" and "el"
+
+"peat": makes "pa" and "et"
+
+"pelt": makes "pl" and "et"
+
+"peoria": makes "poi" and "era"
+
+"per": makes "pr" and "e"
+
+"pert": makes "pr" and "et"
+
+"phi": makes "pi" and "h"
+
+"pi": makes "p" and "i"
+
+"pierre": makes "per" and "ire"
+
+"pill": makes "pl" and "il"
+
+"pion": makes "po" and "in"
+
+"pl": makes "p" and "l"
+
+"pleat": makes "pet" and "la"
+
+"pm": makes "p" and "m"
+
+"po": makes "p" and "o"
+
+"poi": makes "pi" and "o"
+
+"point": makes "pit" and "on"
+
+"pol": makes "pl" and "o"
+
+"polk": makes "pl" and "ok"
+
+"poodle": makes "pol" and "ode"
+
+"pooh": makes "po" and "oh"
+
+"poor": makes "po" and "or"
+
+"pork": makes "pr" and "ok"
+
+"pounce": makes "puc" and "one"
+
+"ppm": makes "pm" and "p"
+
+"pr": makes "p" and "r"
+
+"preen": makes "pen" and "re"
+
+"pride": makes "pie" and "rd"
+
+"pro": makes "po" and "r"
+
+"prod": makes "po" and "rd"
+
+"psi": makes "pi" and "s"
+
+"pta": makes "pa" and "t"
+
+"pulp": makes "pl" and "up"
+
+"pump": makes "pm" and "up"
+
+"pyle": makes "pl" and "ye"
+
+"pyre": makes "pr" and "ye"
+
+"racial": makes "rca" and "ail"
+
+"rae": makes "re" and "a"
+
+"raid": makes "ri" and "ad"
+
+"rail": makes "ri" and "al"
+
+"rain": makes "ri" and "an"
+
+"rd": makes "r" and "d"
+
+"re": makes "r" and "e"
+
+"ready": makes "ray" and "ed"
+
+"realm": makes "ram" and "el"
+
+"realty": makes "rat" and "ely"
+
+"red": makes "rd" and "e"
+
+"reed": makes "re" and "ed"
+
+"reel": makes "re" and "el"
+
+"reid": makes "ri" and "ed"
+
+"rein": makes "ri" and "en"
+
+"rhea": makes "re" and "ha"
+
+"ri": makes "r" and "i"
+
+"rid": makes "rd" and "i"
+
+"rod": makes "rd" and "o"
+
+"roe": makes "re" and "o"
+
+"rooky": makes "roy" and "ok"
+
+"rue": makes "re" and "u"
+
+"ruin": makes "ri" and "un"
+
+"rye": makes "re" and "y"
+
+"sa": makes "s" and "a"
+
+"sac": makes "sc" and "a"
+
+"sack": makes "sc" and "ak"
+
+"sad": makes "sd" and "a"
+
+"saint": makes "sit" and "an"
+
+"sally": makes "sly" and "al"
+
+"salty": makes "sly" and "at"
+
+"sao": makes "so" and "a"
+
+"sat": makes "st" and "a"
+
+"sauce": makes "sue" and "ac"
+
+"saute": makes "sue" and "at"
+
+"saw": makes "sw" and "a"
+
+"sc": makes "s" and "c"
+
+"scab": makes "sa" and "cb"
+
+"scat": makes "sa" and "ct"
+
+"scion": makes "sin" and "co"
+
+"scoop": makes "sop" and "co"
+
+"scot": makes "so" and "ct"
+
+"sd": makes "s" and "d"
+
+"se": makes "s" and "e"
+
+"sea": makes "sa" and "e"
+
+"seal": makes "sa" and "el"
+
+"seam": makes "sa" and "em"
+
+"seamy": makes "say" and "em"
+
+"sean": makes "sa" and "en"
+
+"seat": makes "sa" and "et"
+
+"sec": makes "sc" and "e"
+
+"sect": makes "sc" and "et"
+
+"see": makes "se" and "e"
+
+"seed": makes "se" and "ed"
+
+"seem": makes "se" and "em"
+
+"seen": makes "se" and "en"
+
+"septa": makes "spa" and "et"
+
+"set": makes "st" and "e"
+
+"seth": makes "st" and "eh"
+
+"sew": makes "sw" and "e"
+
+"sewn": makes "sw" and "en"
+
+"she": makes "se" and "h"
+
+"shea": makes "se" and "ha"
+
+"sheen": makes "sen" and "he"
+
+"sheet": makes "set" and "he"
+
+"shoal": makes "sol" and "ha"
+
+"shoe": makes "so" and "he"
+
+"shoo": makes "so" and "ho"
+
+"sial": makes "sa" and "il"
+
+"sian": makes "sa" and "in"
+
+"sic": makes "sc" and "i"
+
+"siena": makes "sea" and "in"
+
+"sieve": makes "see" and "iv"
+
+"silly": makes "sly" and "il"
+
+"silty": makes "sly" and "it"
+
+"sit": makes "st" and "i"
+
+"sloan": makes "son" and "la"
+
+"sloop": makes "sop" and "lo"
+
+"smart": makes "sat" and "mr"
+
+"snoop": makes "sop" and "no"
+
+"snow": makes "so" and "nw"
+
+"snowy": makes "soy" and "nw"
+
+"so": makes "s" and "o"
+
+"soak": makes "sa" and "ok"
+
+"soar": makes "sa" and "or"
+
+"soc": makes "sc" and "o"
+
+"sock": makes "sc" and "ok"
+
+"sod": makes "sd" and "o"
+
+"soon": makes "so" and "on"
+
+"sordid": makes "sri" and "odd"
+
+"sound": makes "sud" and "on"
+
+"sow": makes "sw" and "o"
+
+"sown": makes "sw" and "on"
+
+"spa": makes "sa" and "p"
+
+"spain": makes "san" and "pi"
+
+"spar": makes "sa" and "pr"
+
+"spatial": makes "sail" and "pta"
+
+"spilt": makes "sit" and "pl"
+
+"splay": makes "sly" and "pa"
+
+"spoil": makes "sol" and "pi"
+
+"spool": makes "sol" and "po"
+
+"spoon": makes "son" and "po"
+
+"sprain": makes "sri" and "pan"
+
+"spume": makes "sue" and "pm"
+
+"spurn": makes "sun" and "pr"
+
+"sse": makes "se" and "s"
+
+"sst": makes "st" and "s"
+
+"ssw": makes "sw" and "s"
+
+"st": makes "s" and "t"
+
+"staid": makes "sad" and "ti"
+
+"stain": makes "san" and "ti"
+
+"stan": makes "sa" and "tn"
+
+"stand": makes "sad" and "tn"
+
+"stein": makes "sen" and "ti"
+
+"steve": makes "see" and "tv"
+
+"stint": makes "sit" and "tn"
+
+"stoic": makes "soc" and "ti"
+
+"stony": makes "soy" and "tn"
+
+"stood": makes "sod" and "to"
+
+"stool": makes "sol" and "to"
+
+"stoop": makes "sop" and "to"
+
+"strain": makes "sri" and "tan"
+
+"strait": makes "sri" and "tat"
+
+"sturdy": makes "sud" and "try"
+
+"suck": makes "sc" and "uk"
+
+"sud": makes "sd" and "u"
+
+"suds": makes "sd" and "us"
+
+"sue": makes "se" and "u"
+
+"sulky": makes "sly" and "uk"
+
+"sw": makes "s" and "w"
+
+"swain": makes "san" and "wi"
+
+"sway": makes "sa" and "wy"
+
+"sweat": makes "set" and "wa"
+
+"sweaty": makes "set" and "way"
+
+"sweet": makes "set" and "we"
+
+"ta": makes "t" and "a"
+
+"tail": makes "ti" and "al"
+
+"taint": makes "tit" and "an"
+
+"tan": makes "tn" and "a"
+
+"tanh": makes "tn" and "ah"
+
+"tank": makes "tn" and "ak"
+
+"tao": makes "to" and "a"
+
+"taos": makes "to" and "as"
+
+"tardy": makes "try" and "ad"
+
+"tarry": makes "try" and "ar"
+
+"tattle": makes "ttl" and "ate"
+
+"tatty": makes "tty" and "at"
+
+"tax": makes "tx" and "a"
+
+"tea": makes "ta" and "e"
+
+"teal": makes "ta" and "el"
+
+"team": makes "ta" and "em"
+
+"teat": makes "ta" and "et"
+
+"ten": makes "tn" and "e"
+
+"tend": makes "tn" and "ed"
+
+"tent": makes "tn" and "et"
+
+"text": makes "tx" and "et"
+
+"thai": makes "ta" and "hi"
+
+"theorem": makes "term" and "hoe"
+
+"though": makes "tog" and "huh"
+
+"threw": makes "trw" and "he"
+
+"throaty": makes "tray" and "hot"
+
+"throw": makes "trw" and "ho"
+
+"ti": makes "t" and "i"
+
+"tin": makes "tn" and "i"
+
+"tina": makes "tn" and "ia"
+
+"tint": makes "tn" and "it"
+
+"tn": makes "t" and "n"
+
+"to": makes "t" and "o"
+
+"toefl": makes "tel" and "of"
+
+"ton": makes "tn" and "o"
+
+"tonk": makes "tn" and "ok"
+
+"too": makes "to" and "o"
+
+"took": makes "to" and "ok"
+
+"train": makes "tan" and "ri"
+
+"trait": makes "tat" and "ri"
+
+"tried": makes "tid" and "re"
+
+"triode": makes "tid" and "roe"
+
+"triune": makes "tin" and "rue"
+
+"trod": makes "to" and "rd"
+
+"troupe": makes "top" and "rue"
+
+"truant": makes "tun" and "rat"
+
+"tun": makes "tn" and "u"
+
+"tv": makes "t" and "v"
+
+"tva": makes "ta" and "v"
+
+"twa": makes "ta" and "w"
+
+"twain": makes "tan" and "wi"
+
+"tweed": makes "ted" and "we"
+
+"twirly": makes "til" and "wry"
+
+"two": makes "to" and "w"
+
+"twx": makes "tx" and "w"
+
+"tx": makes "t" and "x"
+
+"uk": makes "u" and "k"
+
+"un": makes "u" and "n"
+
+"up": makes "u" and "p"
+
+"urn": makes "un" and "r"
+
+"us": makes "u" and "s"
+
+"usn": makes "un" and "s"
+
+"ut": makes "u" and "t"
+
+"va": makes "v" and "a"
+
+"vail": makes "vi" and "al"
+
+"vain": makes "vi" and "an"
+
+"vat": makes "vt" and "a"
+
+"veal": makes "va" and "el"
+
+"veil": makes "vi" and "el"
+
+"vein": makes "vi" and "en"
+
+"vet": makes "vt" and "e"
+
+"vi": makes "v" and "i"
+
+"via": makes "va" and "i"
+
+"vial": makes "va" and "il"
+
+"vii": makes "vi" and "i"
+
+"viii": makes "vi" and "ii"
+
+"vita": makes "vt" and "ia"
+
+"vito": makes "vt" and "io"
+
+"vt": makes "v" and "t"
+
+"wa": makes "w" and "a"
+
+"waals": makes "was" and "al"
+
+"wail": makes "wi" and "al"
+
+"waist": makes "wit" and "as"
+
+"wait": makes "wi" and "at"
+
+"warty": makes "wry" and "at"
+
+"way": makes "wy" and "a"
+
+"we": makes "w" and "e"
+
+"weal": makes "wa" and "el"
+
+"wean": makes "wa" and "en"
+
+"wee": makes "we" and "e"
+
+"weed": makes "we" and "ed"
+
+"wei": makes "wi" and "e"
+
+"wheat": makes "wet" and "ha"
+
+"whee": makes "we" and "he"
+
+"whoop": makes "wop" and "ho"
+
+"why": makes "wy" and "h"
+
+"wi": makes "w" and "i"
+
+"wield": makes "wed" and "il"
+
+"wier": makes "we" and "ir"
+
+"woe": makes "we" and "o"
+
+"worry": makes "wry" and "or"
+
+"wry": makes "wy" and "r"
+
+"wu": makes "w" and "u"
+
+"wv": makes "w" and "v"
+
+"wy": makes "w" and "y"
+
+"xi": makes "x" and "i"
+
+"ye": makes "y" and "e"

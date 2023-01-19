@@ -1,0 +1,5 @@
+FUNCTiONS (Fluorine, Uranium, Nitrogen, Carbon, Titanium, Oxygen, Nitrogen, Sulfur)
+BaCoN (Barium, Cobalt, Nitrogen)
+PoISON (Polonium, Iodine, Sulfur, Oxygen, Nitrogen)
+SiCKNeSS (Silicon, Carbon, Potassium, Neon, Sulfur, Sulfur)
+TiCKLiSH (Titanium, Carbon, Potassium, Lithium, Sulfur, Hydrogen)

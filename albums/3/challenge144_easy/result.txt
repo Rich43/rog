@@ -1,0 +1,5 @@
+Eyebolt -5
+Washer +20
+
+2DNail -1
+8DNail +1

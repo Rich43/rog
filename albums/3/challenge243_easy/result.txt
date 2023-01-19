@@ -1,0 +1,9 @@
+18 abundant by 3
+21 deficient
+9 deficient
+111 deficient
+112 abundant by 24
+220 abundant by 64
+69 deficient
+134 deficient
+85 deficient

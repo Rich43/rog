@@ -1,0 +1,1 @@
+The largest degree 'garland word' in the text is undergrounder with degree 5

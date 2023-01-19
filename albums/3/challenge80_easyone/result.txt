@@ -1,0 +1,2 @@
+['presa', 'apres', 'spear', 'apers', 'pares', 'rapes', 'reaps', 'spare', 'pears', 'asper', 'prase', 'parse'] 12
+['estral', 'ratels', 'talers', 'stelar', 'salter', 'slater', 'laster', 'alters', 'alerts', 'artels', 'staler'] 11

@@ -1,0 +1,5 @@
+Divisors of 30:  [1, 2, 3, 5, 6, 10, 15, 30]
+Sum of the divisors:  72
+Number of divisors:  8
+Totatives of the number:  [1, 7, 11, 13, 17, 19, 23, 29]
+Totient of the number:  8

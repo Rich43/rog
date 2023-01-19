@@ -1,0 +1,8 @@
+abcd = bacca
+qwer = weewee
+hjklo = holloo
+
+edcf = deeded
+bnik = bikini
+poil = lollipop
+vybu = bubby

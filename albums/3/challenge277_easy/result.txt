@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpb93gstiu", line 86, in <module>
+    r
+NameError: name 'r' is not defined

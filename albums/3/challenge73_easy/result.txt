@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpyqkd5tno", line 67, in <module>
+    quay_press = input('Input expression - "q" to quit...')
+EOFError: EOF when reading a line

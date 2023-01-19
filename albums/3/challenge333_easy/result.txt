@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmphsl416xh", line 12, in <module>
+    with open('333_challenge.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '333_challenge.txt'

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpt8ss1gb5", line 53, in <module>
+    player = input('U>  ')
+EOFError: EOF when reading a line

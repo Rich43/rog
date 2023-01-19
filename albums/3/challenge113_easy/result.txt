@@ -1,0 +1,6 @@
++123 > int
+-123 > int
+0 > int
+123.456 > float
+20-11-2012 > date
+Hello World! > text

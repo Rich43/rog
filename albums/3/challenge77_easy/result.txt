@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpa76kan8j", line 35, in <module>
+    with open('morse.txt') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'morse.txt'

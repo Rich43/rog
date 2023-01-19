@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmp3t8_znlu", line 77, in <module>
+    ans = input("What would you like to do? ")
+EOFError: EOF when reading a line

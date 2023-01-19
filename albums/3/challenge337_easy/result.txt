@@ -1,0 +1,2 @@
+Angle: 114.592   Maximum area: 624.9999999976861
+Location:  40

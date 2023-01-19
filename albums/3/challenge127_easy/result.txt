@@ -1,0 +1,1 @@
+['aabb', 'bccc', 'bbccc', 'tyyt', 'ef']

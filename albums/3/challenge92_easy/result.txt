@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmptkcfd2ep", line 47, in <module>
+    N = input('size? ')
+EOFError: EOF when reading a line

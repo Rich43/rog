@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmponjwtkz6", line 94, in <module>
+    eq1 = input("Input equation in the form of 'y = 7x + 1' ")
+EOFError: EOF when reading a line

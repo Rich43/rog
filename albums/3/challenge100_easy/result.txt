@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpwyrxz5gu", line 25, in <module>
+    t = input('Enter wake-up time in 00:00 format:  ')
+EOFError: EOF when reading a line

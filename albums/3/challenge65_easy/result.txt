@@ -1,0 +1,8 @@
+0 hundred_dollar_bills
+1 fifty_dollar_bills
+2 ten_dollar_bills
+1 five_dollar_bills
+1 one_dollar_bills
+3 quarters
+2 dimes
+2 cents

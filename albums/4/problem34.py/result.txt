@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/tmp/tmprbfi73l6", line 25, in <module>
+    for x in char_freq_table():
+  File "/tmp/tmprbfi73l6", line 9, in char_freq_table
+    input_text = input('Enter a text file: ')
+EOFError: EOF when reading a line

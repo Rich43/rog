@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmp_hzbll4r", line 11, in <module>
+    stuff = input('Enter stuff, string or number, period to quit.')
+EOFError: EOF when reading a line

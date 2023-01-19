@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmps5c5jxpf", line 46, in <module>
+    amount = input('How many fractions?  ')
+EOFError: EOF when reading a line

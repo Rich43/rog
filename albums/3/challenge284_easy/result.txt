@@ -1,0 +1,4 @@
+['queen', 'question']
+None
+['gaeing', 'garring', 'gathering', 'gating', 'geeing', 'gieing', 'going', 'goring']
+None

@@ -1,0 +1,3 @@
+['Alice', 'Bob', 'Chris']
+[['Ace', 'Ten'], ['Three', 'Six', 'Seven'], ['Ten', 'Three', 'Jack']]
+[21, 16, 23]

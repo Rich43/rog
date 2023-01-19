@@ -1,0 +1,4 @@
+a
+['a', 'ab', 'abc', 'abcd', 'abcde', 'b', 'bc', 'bcd', 'bcde', 'c', 'cd', 'cde', 'd', 'de', 'e']
+124750.0
+['e', 'eq', 'equ', 'equa', 'equat', 'equati', 'equatio', 'equation', 'q', 'qu', 'qua', 'quat', 'quati', 'quatio', 'quation', 'u', 'ua', 'uat', 'uati', 'uatio', 'uation', 'a', 'at', 'ati', 'atio', 'ation', 't', 'ti', 'tio', 'tion', 'i', 'io', 'ion', 'o', 'on', 'n']

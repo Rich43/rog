@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmp0ruj38n6", line 41, in <module>
+    with open('gutenburg.txt', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'gutenburg.txt'

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmp9mbwhrvo", line 58, in <module>
+    choice = input('Input username/password or crack it? Enter user or crack  ')
+EOFError: EOF when reading a line

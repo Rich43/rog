@@ -1,0 +1,3 @@
+ans: 567 True
+ans: 567.89 False
+ans: qwerty False

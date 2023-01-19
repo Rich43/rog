@@ -1,0 +1,19 @@
+Player Picks: rock
+Computer Picks: paper
+Paper covers Rock! winner is computer
+
+Player Picks: Spock
+Computer Picks: lizard
+Lizard poisons Spock! winner is computer
+
+Player Picks: paper
+Computer Picks: rock
+Paper covers Rock! winner is player
+
+Player Picks: lizard
+Computer Picks: lizard
+None winner is a tie
+
+Player Picks: scissors
+Computer Picks: Spock
+Spock smashes Scissors! winner is computer

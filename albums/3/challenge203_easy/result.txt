@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpo_vw49zb", line 26, in <module>
+    import pygame
+ImportError: No module named 'pygame'

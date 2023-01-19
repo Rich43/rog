@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmps9vo_hif", line 106, in <module>
+    guess = input('> ' + expression)
+EOFError: EOF when reading a line

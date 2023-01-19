@@ -1,0 +1,23 @@
+A cube of 27 metres cubed will have sides of 3.0 metres
+A sphere of volume 27 cubic metres will have a radius of 1.86 metres.
+A cylinder of 27 cubic metres with a height of 3.0 will have a radius of 1.69 metres.
+A cone of 27 cubic metres and height of 3.0 metres will have a radius of 2.93 metres
+None
+
+A cube of 42 metres cubed will have sides of 4.67 metres
+A sphere of volume 42 cubic metres will have a radius of 2.16 metres.
+A cylinder of 42 cubic metres with a height of 4.67 will have a radius of 1.69 metres.
+A cone of 42 cubic metres and height of 4.67 metres will have a radius of 2.93 metres
+None
+
+A cube of 1000 metres cubed will have sides of 111.11 metres
+A sphere of volume 1000 cubic metres will have a radius of 6.2 metres.
+A cylinder of 1000 cubic metres with a height of 111.11 will have a radius of 1.69 metres.
+A cone of 1000 cubic metres and height of 111.11 metres will have a radius of 2.93 metres
+None
+
+A cube of 2197 metres cubed will have sides of 244.11 metres
+A sphere of volume 2197 cubic metres will have a radius of 8.06 metres.
+A cylinder of 2197 cubic metres with a height of 244.11 will have a radius of 1.69 metres.
+A cone of 2197 cubic metres and height of 244.11 metres will have a radius of 2.93 metres
+None

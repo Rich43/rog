@@ -1,0 +1,1 @@
+Minimum number of ones: 1 from number 8

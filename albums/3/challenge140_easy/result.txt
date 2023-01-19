@@ -1,0 +1,3 @@
+helloWorld
+user_id
+Map_controller_delegate_manager

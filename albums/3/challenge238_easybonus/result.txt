@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmp_4s3yo_x", line 48, in <module>
+    words = input('Send in a string of cs and vs: ')
+EOFError: EOF when reading a line

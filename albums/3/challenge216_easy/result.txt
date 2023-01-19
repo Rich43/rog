@@ -1,0 +1,31 @@
+Player
+Jack of Hearts
+Two of Spades
+
+Players (cpu)
+CPU:  1
+Eight of Diamonds
+Nine of Hearts
+CPU:  2
+Ten of Hearts
+Ten of Diamonds
+CPU:  3
+Ace of Hearts
+Jack of Diamonds
+CPU:  4
+King of Clubs
+Eight of Spades
+CPU:  5
+Jack of Clubs
+Nine of Clubs
+
+Flop
+Ace of Clubs
+Five of Hearts
+Four of Spades
+
+Turn
+Five of Spades
+
+River
+Eight of Hearts

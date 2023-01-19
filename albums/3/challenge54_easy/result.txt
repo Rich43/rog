@@ -1,0 +1,11 @@
+36
+The wa
+y to H
+ungart
+on is 
+to the
+ east!
+
+cyphertext:  Tyuot h nnoeetg  a oaitsw rshtaHt e!
+text2:  The way to Hungarton is to the east!
+It_seems_that_you've_been_living_two_lives._One_life,_you're_Thomas_A._Anderson,_program_writer_for_a_respectable_software_company._You_have_a_social_security_number,_pay_your_taxes,_and_you..._help_your_landlady_carry_out_her_garbage._The_other_life_is_lived_in_computers,_where_you_go_by_the_hacker_alias_Neo_and_are_guilty_of_virtually_every_computer_crime_we_have_a_law_for._One_of_these_lives_has_a_future,_and_one_of_them_does_not.ahfregiqiljmdnpftzzzbudbltpjcnjgpvsqczdiagj

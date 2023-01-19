@@ -1,0 +1,1 @@
+repeated digits: 7  non-repeated digits: 104

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/tmpv_hu1j03", line 33, in <module>
+    with open('loren_ipsum.txt', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'loren_ipsum.txt'
